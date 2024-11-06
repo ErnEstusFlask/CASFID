@@ -1,0 +1,29 @@
+[2024-11-06 01:38:15] [CHANGE] Libro creado: Título: Logger, Autor: Autor Lgger, ISBN: 9784444444444
+[2024-11-06 01:47:06] [API] Consulta Portada Libro
+[2024-11-06 01:47:07] [ERROR] Error al consultar la API de librosNo hay una descripción disponible
+[2024-11-06 01:47:35] [API] Consulta Portada Libro
+[2024-11-06 01:47:38] [API] Consulta Portada Libro
+[2024-11-06 01:48:36] [API] Consulta Portada Libro
+[2024-11-06 01:48:37] [ERROR] Error al consultar la API de librosNo hay una descripción disponible
+[2024-11-06 01:48:40] [CHANGE] Libro borrado: ISBN: 9784444444444
+[2024-11-06 01:48:49] [API] Consulta Portada Libro
+[2024-11-06 01:48:50] [ERROR] Error al consultar la API de librosNo hay una descripción disponible
+[2024-11-06 01:48:54] [CHANGE] Libro actualizado: Título: Prueba 3, Autor: Autor 2, ISBN: 9781231123123
+[2024-11-06 02:29:30] [API] Consulta Portada Libro
+[2024-11-06 02:29:30] [ERROR] Error al consultar la API de librosNo hay una descripción disponible
+[2024-11-06 03:55:33] [CHANGE] Libro creado: Título: PHP Unit Testing, Autor: Jane Doe, ISBN: 9781234567890
+[2024-11-06 03:55:37] [API] Consulta Portada Libro
+[2024-11-06 03:55:39] [API] Consulta Descripción Libro
+[2024-11-06 03:56:43] [API] Consulta Portada Libro
+[2024-11-06 03:56:43] [ERROR] Error al consultar la API de librosNo hay una descripción disponible
+[2024-11-06 03:57:05] [API] Consulta Portada Libro
+[2024-11-06 03:57:06] [API] Consulta Descripción Libro
+[2024-11-06 03:59:21] [API] Consulta Portada Libro
+[2024-11-06 03:59:22] [ERROR] Error al consultar la API de librosNo hay una descripción disponible
+[2024-11-06 03:59:40] [CHANGE] Libro actualizado: Título: PHP Unit Testing, Autor: Jane Doe, ISBN: 9781234567891
+[2024-11-06 03:59:44] [API] Consulta Portada Libro
+[2024-11-06 03:59:45] [ERROR] Error al consultar la API de librosNo hay una descripción disponible
+[2024-11-06 03:59:53] [CHANGE] Libro actualizado: Título: PHP Unit Testing, Autor: Jane Doe, ISBN: 9781234567890
+[2024-11-06 03:59:57] [API] Consulta Portada Libro
+[2024-11-06 03:59:58] [ERROR] Error al consultar la API de librosNo hay una descripción disponible
+[2024-11-06 04:37:23] [CHANGE] Libro actualizado: Título: PHP Unit Testing, Autor: Jane Doe, ISBN: 9781234567890
