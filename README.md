@@ -107,7 +107,7 @@ El proyecto incluye pruebas unitarias para verificar el correcto funcionamiento 
    Para ejecutar las pruebas, usa PHPUnit. Asegúrate de haber instalado PHPUnit en tu proyecto o de tener una versión global instalada.
 
    ```bash
-   vendor/bin/phpunit --bootstrap vendor/autoload.php tests
+   vendor/bin/phpunit --bootstrap vendor/autoload.php src/tests
    ```
 
    Las pruebas están ubicadas en la carpeta `tests`.
